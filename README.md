@@ -1,1 +1,1 @@
-# images
+# images used for wikis
